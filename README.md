@@ -10,18 +10,18 @@ I sold Azavea in 2023 to Element 84 where I served as the Chief Strategy Officer
 
 ### 🔭 I’m currently working on:
 - Consulting work related to Earth observation, cloud native geospatial technology, open source, open data, and open standards
-- [Japan Earth Observer](https://www.japanearthobserver.com/) - a monthly newsletter on the space, remote sensing, and geospatial industries in Japan
-- OpenDataPhilly.org - I answer the inbox and help maintain the data catalog
-- Coaching and learning Crossfit
+- [Japan Earth Observer](https://www.japanearthobserver.com/) - a monthly newsletter on the space, remote sensing, and geospatial industries in Japan plus a [YouTube](https://www.youtube.com/@JapanEarthObserver) channel
+- [OpenDataPhilly.org](https://www.opendataphilly.org/) - I answer the inbox and help maintain the data catalog
+- Learning and coaching Crossfit
 
 ### 🌱 I’m currently learning:
-- Python in the context of geospatial work
+- Building new tools with Claude and Python
 - Japanese
-- Thailand and Burma history, particularly related to WWII
+- Japanese history from the late Tokugawa to the present
 
 ### 🤔 I’m looking for help with
 - Tips and introductions to folks that do work related to space, remote sensing, and geospatial technology industries in Japan
-- Introductions to folks doing geography and history research related to the border of Thailand and Burma
+- Introductions to folks doing geography and history research related to Japan
 
 ### 💬 Ask me about 
 - Geospatial technology
